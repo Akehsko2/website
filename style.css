@@ -1,0 +1,33 @@
+.xx-round{
+    border-radius: 50%;
+}
+
+.red-background{
+    background-color: #ef261444;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+.white-background{
+    background-color: #ffffff30;
+}
+
+
+.black-background{
+    background-color: #00000010;
+}
+
+.blue-background{
+    background-color: #0000ff35;
+}
+
+.center-align{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media ()
